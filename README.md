@@ -1,4 +1,4 @@
-I mostly whine about stuff after failing to properly set them up. 
+🥱
 
 <!--
 **baalimago/baalimago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
